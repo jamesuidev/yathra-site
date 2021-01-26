@@ -103,8 +103,7 @@ nav ul {
 /* Benefits section */
 #locations {
   min-height: 100vh;
-  background: linear-gradient(rgba(41, 41, 41, 0.2), transparent),
-    url("./images/new-york-page.png");
+  background: url("./images/new-york-page.png");
   background-size: cover;
   background-position: center;
   display: flex;
