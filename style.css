@@ -85,7 +85,7 @@ nav ul {
 .hero {
   min-height: 90vh;
   background: linear-gradient(rgba(41, 41, 41, 0.2), transparent),
-    url("./images/munna-kolukkukumlalo.jpg");
+    url("images/munna-kolukkukumlalo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -103,7 +103,7 @@ nav ul {
 /* Benefits section */
 #locations {
   min-height: 100vh;
-  background:linear-gradient(rgba(41, 41, 41, 0.2), transparent), url("./images/new-york-page.png");
+  background:linear-gradient(rgba(41, 41, 41, 0.2), transparent), url("images/new-york-page.png");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -207,7 +207,7 @@ h4 {
 #contact {
   min-height: 100vh;
   background: linear-gradient(rgba(41, 41, 41, 0.2), transparent),
-    url("./images/contact-mountain.png");
+    url("images/contact-mountain.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
